@@ -1,0 +1,6 @@
+framework module Pods_APIWebService {
+  umbrella header "Pods-APIWebService-umbrella.h"
+
+  export *
+  module * { export * }
+}
